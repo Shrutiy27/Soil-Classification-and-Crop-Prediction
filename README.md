@@ -19,8 +19,9 @@ This project uses machine learning and image processing techniques to classify s
   •	Jupyter Notebook
 
 📂 Dataset
-   •	Soil and crop datasets collected from [Kaggle/UCI/Open Government Data] https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset ,         
-       https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+   •	Soil and crop datasets collected from [Kaggle/UCI/Open Government Data] 
+       https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset,         
+       https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset.
    •	Custom-labeled soil images for CNN training (optional) 
 
 📌 How It Works
